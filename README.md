@@ -1,1 +1,2 @@
-# tz-lanck
+# binarySearch
+бинарный поиск по файлу
